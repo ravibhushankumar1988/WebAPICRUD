@@ -1,0 +1,6 @@
+C:\Users\Ravi\Desktop\WebApi Notes\WebApiPrctice\WebApiTest\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Ravi\Desktop\WebApi Notes\WebApiPrctice\WebApiTest\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Ravi\Desktop\WebApi Notes\WebApiPrctice\WebApiTest\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Ravi\Desktop\WebApi Notes\WebApiPrctice\WebApiTest\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ravi\Desktop\WebApi Notes\WebApiPrctice\WebApiTest\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Ravi\Desktop\WebApi Notes\WebApiPrctice\WebApiTest\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

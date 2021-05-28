@@ -1,0 +1,12 @@
+C:\Users\Ravi\Desktop\WebApi Notes\WebApiPrctice\WebApiTest\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+C:\Users\Ravi\Desktop\WebApi Notes\WebApiPrctice\WebApiTest\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+C:\Users\Ravi\Desktop\WebApi Notes\WebApiPrctice\WebApiTest\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+C:\Users\Ravi\Desktop\WebApi Notes\WebApiPrctice\WebApiTest\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Ravi\Desktop\WebApi Notes\WebApiPrctice\WebApiTest\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ravi\Desktop\WebApi Notes\WebApiPrctice\WebApiTest\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Ravi\Desktop\WebApi Notes\WebApiPrctice\WebApiTest\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ravi\Desktop\WebApi Notes\WebApiPrctice\WebApiTest\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ravi\Desktop\WebApi Notes\WebApiPrctice\WebApiTest\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CopyComplete
+C:\Users\Ravi\Desktop\WebApi Notes\WebApiPrctice\WebApiTest\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+C:\Users\Ravi\Desktop\WebApi Notes\WebApiPrctice\WebApiTest\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
+C:\Users\Ravi\Desktop\WebApi Notes\WebApiPrctice\WebApiTest\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojAssemblyReference.cache
