@@ -24,6 +24,7 @@ namespace WebApiTest
             );
 
             EnableCorsAttribute cors = new EnableCorsAttribute("*", "*", "*");
+            
 
             /// How to return only JSON/XML from API ?
             // config.Formatters.Remove(config.Formatters.XmlFormatter);

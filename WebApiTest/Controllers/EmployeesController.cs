@@ -8,6 +8,7 @@ using EmployeeDataAccess;
 
 namespace WebApiTest.Controllers
 {
+    [BasicAuthentication]
     public class EmployeesController : ApiController
     {
 
